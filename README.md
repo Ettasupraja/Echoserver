@@ -65,9 +65,11 @@ with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 ## OUTPUT:
 
 client:
+
 ![WhatsApp Image 2025-03-06 at 06 16 04_853f67d4](https://github.com/user-attachments/assets/0aedc355-423e-4468-b813-8ae1761af84e)
 
 server:
+
 ![WhatsApp Image 2025-03-06 at 06 16 26_e172e679](https://github.com/user-attachments/assets/25a419b7-2e50-4eeb-9bb7-8a0e533bfe97)
 
 
